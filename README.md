@@ -1,3 +1,3 @@
-# GLOBAL-88-SP22
+About
 
 Notebooks created for GLOBAL 88 (Intersectional Data Feminism).
